@@ -1,0 +1,274 @@
+[
+    {
+        "URL": "/ers/config/endpoint?size=100",
+        "Name": "Endpoints"
+    },
+    {
+        "URL": "/ers/config/identitygroup?size=100",
+        "Name": "Identity Groups"
+    },
+    {
+        "URL": "/ers/config/idstoresequence?size=100",
+        "Name": "ID Store Sequences"
+    },
+    {
+        "URL": "/ers/config/profilerprofile?size=100",
+        "Name": "Profiler Profiles"
+    },
+    {
+        "URL": "/ers/config/internaluser?size=100",
+        "Name": "Internal Users"
+    },
+    {
+        "URL": "/ers/config/allowedprotocols?size=100",
+        "Name": "Allowed Protocols"
+    },
+    {
+        "URL": "/ers/config/adminuser?size=100",
+        "Name": "Admin Users"
+    },
+    {
+        "URL": "/ers/config/activedirectory?size=100",
+        "Name": "Active Directory"
+    },
+    {
+        "URL": "/ers/config/authorizationprofile?size=100",
+        "Name": "Authorization Profiles"
+    },
+    {
+        "URL": "/ers/config/downloadableacl?size=100",
+        "Name": "Downloadable ACLs"
+    },
+    {
+        "URL": "/ers/config/endpointgroup?size=100",
+        "Name": "Endpoint Groups"
+    },
+    {
+        "URL": "/ers/config/networkdevice?size=100",
+        "Name": "Network Devices"
+    },
+    {
+        "URL": "/ers/config/networkdevicegroup?size=100",
+        "Name": "Network Device Groups"
+    },
+    {
+        "URL": "/ers/config/node?size=100",
+        "Name": "Nodes"
+    },
+    {
+        "URL": "/ers/config/portal?size=100",
+        "Name": "Portals"
+    },
+    {
+        "URL": "/ers/config/sgt?size=100",
+        "Name": "SGTs"
+    },
+    {
+        "URL": "/ers/config/sgacl?size=100",
+        "Name": "SGACLs"
+    },
+    {
+        "URL": "/ers/config/selfregportal?size=100",
+        "Name": "Self-Reg Portals"
+    },
+    {
+        "URL": "/ers/config/sponsorgroup?size=100",
+        "Name": "Sponsor Groups"
+    },
+    {
+        "URL": "/ers/config/sponsorportal?size=100",
+        "Name": "Sponsor Portals"
+    },
+    {
+        "URL": "/ers/config/sponsoredguestportal?size=100",
+        "Name": "Sponsored Guest Portals"
+    },
+    {
+        "URL": "/api/v1/backup-restore/config/last-backup-status",
+        "Name": "Last Backup Status"
+    },
+    {
+        "URL": "/api/v1/certs/certificate-signing-request",
+        "Name": "Certificate Signing Requests"
+    },
+    {
+        "URL": "/api/v1/certs/system-certificate/{self.no_https_url}",
+        "Name": "System Certificates"
+    },
+    {
+        "URL": "/api/v1/certs/trusted-certificate",
+        "Name": "Trusted Certificates"
+    },
+    {
+        "URL": "/api/v1/deployment/node",
+        "Name": "Deployment Nodes"
+    },
+    {
+        "URL": "/api/v1/deployment/pan-ha",
+        "Name": "Deployment PAN-HA"
+    },
+    {
+        "URL": "/api/v1/node/{self.no_https_url}/interface",
+        "Name": "Node Interfaces"
+    },
+    {
+        "URL": "/api/v1/profile/{self.no_https_url}",
+        "Name": "Profiles"
+    },
+    {
+        "URL": "/api/v1/license/system/connection-type",
+        "Name": "License System Connection Types"
+    },
+    {
+        "URL": "/api/v1/license/system/eval-license",
+        "Name": "Evaluation Licenses"
+    },
+    {
+        "URL": "/api/v1/license/system/feature-to-tier-mapping",
+        "Name": "Feature to Tier Mappings"
+    },
+    {
+        "URL": "/api/v1/license/system/register",
+        "Name": "License Registration"
+    },
+    {
+        "URL": "/api/v1/license/system/smart-state",
+        "Name": "Smart License State"
+    },
+    {
+        "URL": "/api/v1/license/system/tier-state",
+        "Name": "License Tier State"
+    },
+    {
+        "URL": "/api/v1/patch",
+        "Name": "Patches"
+    },
+    {
+        "URL": "/api/v1/hotpatch",
+        "Name": "Hotpatches"
+    },
+    {
+        "URL": "/api/v1/repository",
+        "Name": "Repositories"
+    },
+    {
+        "URL": "/api/v1/system-settings/proxy",
+        "Name": "Proxy Settings"
+    },
+    {
+        "URL": "/api/v1/system-settings/telemetry/transport-gateway",
+        "Name": "Telemetry Transport Gateway Settings"
+    },
+    {
+        "URL": "/api/v1/trustsec/sgacl/nbarapp/",
+        "Name": "TrustSec SGACL NBAR Apps"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/command-sets",
+        "Name": "Device Admin Command Sets"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/condition",
+        "Name": "Device Admin Conditions"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/dictionaries/authentication",
+        "Name": "Device Admin Authentication Dictionaries"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/dictionaries/authorization",
+        "Name": "Device Admin Authorization Dictionaries"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/dictionaries/policyset",
+        "Name": "Device Admin Policy Set Dictionaries"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/identity-stores",
+        "Name": "Device Admin Identity Stores"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/policy-set",
+        "Name": "Device Admin Policy Sets"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/service-names",
+        "Name": "Device Admin Service Names"
+    },
+    {
+        "URL": "/api/v1/policy/device-admin/shell-profiles",
+        "Name": "Device Admin Shell Profiles"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/authorization-profiles",
+        "Name": "Network Access Authorization Profiles"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/condition",
+        "Name": "Network Access Conditions"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/condition/authentication",
+        "Name": "Network Access Authentication Conditions"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/condition/authorization",
+        "Name": "Network Access Authorization Conditions"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/condition/policyset",
+        "Name": "Network Access Policy Set Conditions"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/dictionaries",
+        "Name": "Network Access Dictionaries"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/dictionaries/authentication",
+        "Name": "Network Access Authentication Dictionaries"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/dictionaries/authorization",
+        "Name": "Network Access Authorization Dictionaries"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/dictionaries/policyset",
+        "Name": "Network Access Policy Set Dictionaries"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/identity-stores",
+        "Name": "Network Access Identity Stores"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/policy-set",
+        "Name": "Network Access Policy Sets"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/security-groups",
+        "Name": "Network Access Security Groups"
+    },
+    {
+        "URL": "/api/v1/policy/network-access/service-names",
+        "Name": "Network Access Service Names"
+    },
+    {
+        "URL": "/admin/API/mnt/Session/ActiveCount",
+        "Name": "Active Session Count"
+    },
+    {
+        "URL": "/admin/API/mnt/Session/PostureCount",
+        "Name": "Posture Session Count"
+    },
+    {
+        "URL": "/admin/API/mnt/Session/ProfilerCount",
+        "Name": "Profiler Session Count"
+    },
+    {
+        "URL": "/admin/API/mnt/Version",
+        "Name": "Version"
+    },
+    {
+        "URL": "/admin/API/mnt/FailureReasons",
+        "Name": "Failure Reasons"
+    }  
+]
